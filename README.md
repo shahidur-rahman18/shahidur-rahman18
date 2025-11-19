@@ -46,6 +46,7 @@ You can also find me on:
 - **Email**: mdshahidurrahman3690@gmail.com
 - **Linkedin**: [Click Here](https://www.linkedin.com/in/shahidur-rahman18/)
 - **Facebook** : [Click Here](https://www.facebook.com/)
+- - **X** : [Click Here](https://x.com/ShahidurRa94403)
 
 
 
