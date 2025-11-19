@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://i.ibb.co.com/m5MpKyC9/White-and-Black-Simple-Marketing-Linked-In-Banner.png" alt="Banner" width="100%" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shahidur+Rahman;MERN+Stack+Developer;Frontend+Developer;Crafting+clean+UI+and+smooth+UX" />
 </p>
