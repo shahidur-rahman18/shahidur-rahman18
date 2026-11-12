@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi, I'm **Md. Shahidur Rahman** — a dedicated **Frontend Web Developer** focused on building clean, modern, and user-friendly digital experiences. I’m passionate about turning ideas into beautifully crafted interfaces that are intuitive, responsive, and enjoyable to interact with.
+Hi, I'm **Md. Shahidur Rahman** — a dedicated **Web Developer** focused on building clean, modern, and user-friendly digital experiences. I’m passionate about turning ideas into beautifully crafted interfaces that are intuitive, responsive, and enjoyable to interact with.
 
 I believe great design goes beyond visuals — it should guide users smoothly, enhance usability, and leave a meaningful impression. With attention to detail, creative problem-solving, and a strong sense of UI/UX, I strive to deliver web experiences that are:
 
